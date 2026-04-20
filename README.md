@@ -1,8 +1,8 @@
 # Gerard Perez
 
-Computer Engineering student at La Salle Campus Barcelona with a strong interest in full-stack development, AI engineering, and cybersecurity.
+Computer Engineering student at La Salle Campus Barcelona with a strong interest in cybersecurity, full-stack development, and AI engineering.
 
-I like building software that is practical, well-structured, and measurable. My ambition is to grow into an engineer who can move comfortably between product development, AI research, and security-conscious software design. I am especially interested in systems that are not only useful, but also efficient, understandable, and built with solid technical foundations.
+I like building software that is practical, well-structured, and measurable. My main objective is to build my career in cybersecurity, while continuing to strengthen my software engineering and AI foundations. I am especially interested in systems that are secure, useful, efficient, and built with solid technical foundations.
 
 ## What drives me
 
@@ -22,20 +22,6 @@ What makes this project important to me:
 - It pushed me to think carefully about frontend state flows and how to keep them understandable as the app grows.
 - It reflects the kind of software I want to build: applications that feel intentional, engaging, and technically well organized.
 
-## Other Projects
-
-### Energy-Aware GPU Inference Framework
-
-Developed in collaboration with a university research partner, this project is a GPU-oriented framework focused on evaluating energy consumption on **NVIDIA GPUs** and comparing which models are better suited for different situations.
-
-Main focus areas:
-
-- Energy-aware AI experimentation
-- Model comparison under different inference conditions
-- Practical evaluation of efficiency and performance trade-offs
-
-Tech used: **Python, PyTorch, CodeCarbon, NVML**
-
 ## Research and Learning
 
 I currently contribute to the university's AI research line, where I work on topics related to **energy consumption in AI systems** and model evaluation. This research experience has helped me become more comfortable with experimentation, technical analysis, and translating ideas into working implementations.
@@ -51,10 +37,10 @@ Alongside that, I am continuing to build my cybersecurity background. I complete
 
 ## Current direction
 
-Right now, I am most interested in opportunities where I can keep growing across:
+Right now, my primary objective is to work in cybersecurity roles, while continuing to grow across:
 
+- Cybersecurity and secure systems
 - Software engineering
 - AI engineering and applied research
-- Cybersecurity and secure systems
 
 If you are interested in the kind of projects I build, feel free to explore my repositories.
