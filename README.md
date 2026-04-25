@@ -2,17 +2,13 @@
 
 Computer Engineering student at La Salle Campus Barcelona with a strong interest in cybersecurity, full-stack development, and AI engineering.
 
-I like building software that is practical, well-structured, and measurable. My main objective is to build my career in cybersecurity, while continuing to strengthen my software engineering and AI foundations. I am especially interested in systems that are secure, useful, efficient, and built with solid technical foundations.
-
-## What drives me
-
-- Build applications with clear user value and strong technical structure.
-- Explore how AI systems can be evaluated, improved, and deployed more responsibly.
-- Keep developing my cybersecurity foundations through hands-on labs, certifications, and secure engineering practices.
+I like building software that is practical, well-structured, and measurable. My main objective is to build my career in cybersecurity, while continuing to strengthen my software engineering and AI skills. I am especially interested in systems that are secure, useful, efficient, and built with solid technical foundations.
 
 ## Featured Project: Memory Palace
 
 **Memory Palace** is one of the projects that best represents how I like to work.
+
+Check the Web [here] (https://memorypalace-lyart.vercel.app/)
 
 Built with **Next.js** and **TypeScript** between **February 2026 and April 2026**, it is a game-style demo designed around mnemonic scene generation and recall challenges. The goal of the project was not just to build a working frontend, but to create an experience that shows how interaction design, application state, and architecture can work together in a clean way.
 
