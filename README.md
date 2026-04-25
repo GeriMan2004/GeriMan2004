@@ -8,7 +8,7 @@ I like building software that is practical, well-structured, and measurable. My 
 
 **Memory Palace** is one of the projects that best represents how I like to work.
 
-Check the Web [here] (https://memorypalace-lyart.vercel.app/)
+Check the Web (https://memorypalace-lyart.vercel.app/)
 
 Built with **Next.js** and **TypeScript** between **February 2026 and April 2026**, it is a game-style demo designed around mnemonic scene generation and recall challenges. The goal of the project was not just to build a working frontend, but to create an experience that shows how interaction design, application state, and architecture can work together in a clean way.
 
