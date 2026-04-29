@@ -1,4 +1,4 @@
-# Gerard Perez
+# Gerard Pérez i Carbó
 
 Computer Engineering student at La Salle Campus Barcelona with a strong interest in cybersecurity and developing solutions.
 
